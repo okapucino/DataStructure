@@ -15,7 +15,7 @@
 
 Sistem ini adalah program Python untuk menerima input 10 nilai mahasiswa, melakukan agregasi data (nilai tertinggi, terendah, rata-rata, kelulusan), dan memvisualisasikannya menggunakan grafik Matplotlib.
 
-
+<img src="documentation1.png" alt="screenshot 1" width="600">
 
 #### 📦 Penjelasan Konsep Array dalam Program
 Dalam bahasa Python, konsep **Array** secara bawaan direpresentasikan menggunakan struktur data **List**. Berbeda dengan array statis di bahasa C/Java, List di Python bersifat *dinamis* (ukurannya bisa berubah-ubah) dan dapat menampung tipe data heterogen (meski dalam kasus ini kita hanya menyimpan nilai `float`).
