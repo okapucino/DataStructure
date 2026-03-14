@@ -2,7 +2,7 @@
 
 🔥 Repositori ini berisi script Python, struktur data, algoritma, dan proyek ilmu data yang siap dijalankan di Google Colab.
 
-| Colab | Info - Script - Project Page |
+| Colab | Info - Script - Project |
 | --- | --- |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/okapucino/DataStructure/blob/main/Project_sederhana_pengelolaan_nilai.ipynb) | `Project_sederhana_pengelolaan_nilai` <br> [Sistem Pengelolaan Nilai Mahasiswa (Array)](#1-sistem-pengelolaan-nilai-mahasiswa-sederhana) |
 
